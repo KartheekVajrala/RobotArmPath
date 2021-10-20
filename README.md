@@ -1,3 +1,3 @@
 # RobotArmPath
 
-Using heuristic Search to find optimal path of robotic arm
+Using A* heuristic Search to find optimal path of robotic arm
